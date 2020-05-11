@@ -1,5 +1,5 @@
 all:
-g++ lab5.cpp -o Trassirovka
+g++ Trassirovka.cpp -o Trassirovka
 	
 run:
 Trassirovka
